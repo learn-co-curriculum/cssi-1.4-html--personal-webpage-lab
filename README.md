@@ -7,7 +7,7 @@ languages: html
 #HTML Personal Webpage LAB
 Open your index.html file in your my_website directory
 #Boiler plate code:
-```
+```html
 <!DOCTYPE html>
 <html>   
   <head> 
