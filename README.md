@@ -5,7 +5,16 @@ languages: html
 ---
 
 #HTML Personal Webpage LAB
-Open your index.html file in your my_website directory
+
+#Lab Setup
++	Click Cmd+space
++ Type “Atom” and press enter
++ Go to “file” and click “new file”
++ Click Cmd+S
++ Save your file as “my_profile.html”
++ Select your Desktop for where the file should be saved
++ Copy the boiler plate code below and you will have your first html page!
+
 #Boiler plate code:
 ```html
 <!DOCTYPE html>
