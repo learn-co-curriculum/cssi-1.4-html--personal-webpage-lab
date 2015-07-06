@@ -4,7 +4,7 @@ level: 1
 languages: html
 ---
 
-#HTML Personal Webpage LAB
+#HTML Personal Webpage Lab
 
 #Lab Setup
 +	Click Cmd+space
@@ -15,7 +15,7 @@ languages: html
 + Select your Desktop for where the file should be saved
 + Copy the boiler plate code below and you will have your first html page!
 
-#Boiler plate code:
+#Boilerplate code:
 ```html
 <!DOCTYPE html>
 <html>   
@@ -29,12 +29,12 @@ languages: html
 <html>
 ```
 #Adding sections
-For your new personal website all about you! Somethings you can include are: a short bio, your hobbies, fact about your future college etc. Your html webpage should include
+For your new personal website all about you! Somethings you can include are: a short bio, your hobbies, facts about your future college etc. Your html webpage should include
 + a title
 + a subheader (using h2-h6 tags)
 +	a p tag with a short descriptive paragraph
 +	an image (consider using your android Avatar if you can’t find a quick picture that you like)
-+	a link  to your g+ page, your github page  or another social media page
++	a link  to your g+ page, your github page, or another social media page
 
 #Stretch: Adding pages
 Add additional pages to your site by creating three separate html files
