@@ -36,11 +36,11 @@ Save this as profile.html and load it into your browser. Let's take a look at ea
 ```
 <h1>Matthew Levine</h1>
 ```
-This is the top-level heading. How does this differ from the <title>? The title doesn't appear in the body, so we often see a similar <title> and <h1>.
+This is the top-level heading. How does this differ from the ``<title>``? The title doesn't appear in the body, so we often see a similar ``<title>`` and ``<h1>``.
 ```
 <img src="matthewlevine.jpg" width="80" height="80" alt="Photo of Matthew Levine">
 ```
-This should shows an image of the author, but it's broken. There are some important attributes in the<img> element you need to know:
+This should shows an image of the author, but it's broken. There are some important attributes in the``<img>`` element you need to know:
 src: This is the URL ("source") of the image.
 width & height: These are optional, but if you specify them in your HTML, the page won't jump around when the image loads
 alt: The "alternate" text, a short description. This is useful if the image is broken, or for users who can't see the image and rely on a description instead.
@@ -61,13 +61,13 @@ A <p> element is a paragraph; this commonly container for body text, e.g. in a b
 ```
 The ``<ol>`` element is an "ordered list". This comes in handy when you're listing things that have a natural order, like a chronological list of places you've worked or a list of the winners of a race.
 
-Below, you'll notice a <ul> element. This is for an "unordered list". This also contains list items, but should be used for lists that don't have a natural order. By default, these are usually bullet lists instead of numbered lists (but we can change that with styling).
+Below, you'll notice a ``<ul>`` element. This is for an "unordered list". This also contains list items, but should be used for lists that don't have a natural order. By default, these are usually bullet lists instead of numbered lists (but we can change that with styling).
 
 The ``<li>`` element is a "list item". These go inside lists.
 
 <a href="http://plus.google.com/115182601594934760469">Google+</a>
 
-We've seen this before. The <a> element should contain an "href" attribute with the URL of the destination page. The content of the anchor should contain the link text.
+We've seen this before. The ``<a>`` element should contain an "href" attribute with the URL of the destination page. The content of the anchor should contain the link text.
 
 Altogether, we've seen the following elements so far:
 title: the document title
