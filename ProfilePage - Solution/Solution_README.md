@@ -64,9 +64,9 @@ The ``<ol>`` element is an "ordered list". This comes in handy when you're listi
 Below, you'll notice a ``<ul>`` element. This is for an "unordered list". This also contains list items, but should be used for lists that don't have a natural order. By default, these are usually bullet lists instead of numbered lists (but we can change that with styling).
 
 The ``<li>`` element is a "list item". These go inside lists.
-``
+```
 <a href="http://plus.google.com/115182601594934760469">Google+</a>
-``
+```
 We've seen this before. The ``<a>`` element should contain an "href" attribute with the URL of the destination page. The content of the anchor should contain the link text.
 
 Altogether, we've seen the following elements so far:
