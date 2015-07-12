@@ -7,6 +7,7 @@ languages: html
 #HTML Personal Webpage Lab
 
 #Lab Setup
+  + Open your dev folder and create a new folder called my_profile_project
   +	Click Cmd+space
   + Type “Atom” and press enter
   + Go to “file” and click “new file”
