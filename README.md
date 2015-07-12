@@ -7,13 +7,13 @@ languages: html
 #HTML Personal Webpage Lab
 
 #Lab Setup
-+	Click Cmd+space
-+ Type “Atom” and press enter
-+ Go to “file” and click “new file”
-+ Click Cmd+S
-+ Save your file as “my_profile.html”
-+ Select your Desktop for where the file should be saved
-+ Copy the boiler plate code below and you will have your first html page!
+  +	Click Cmd+space
+  + Type “Atom” and press enter
+  + Go to “file” and click “new file”
+  + Click Cmd+S
+  + Save your file as “my_profile.html”
+  + Save the file in your “html” folder inside your “dev” folder
+  + Copy the boiler plate code below and you will have your first html page!
 
 #Boilerplate code:
 ```html
