@@ -19,14 +19,14 @@ languages: html
 #Boilerplate code:
 ```html
 <!DOCTYPE html>
-<html>   
-  <head> 
-    <title> My personal webpage! </title>   
-  </head>   
+<html>  
+  <head>
+    <title>My personal webpage!</title>  
+  </head>  
   <body>
-    <h1>Heading</h1> 
-    <p>Some text about you! </p> 
-  </body> 
+    <h1>Heading</h1>
+    <p>Some text about you!</p>
+  </body>
 <html>
 ```
 #Adding sections
