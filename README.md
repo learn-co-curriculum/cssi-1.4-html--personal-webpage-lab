@@ -1,8 +1,4 @@
----
-tags: cssi, basic html, lab
-level: 1
-languages: html
----
+
 
 #HTML Personal Webpage Lab
 
