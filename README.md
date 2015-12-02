@@ -40,3 +40,5 @@ Add additional pages to your site by creating three separate html files
 `<a href="my_website/aboutme.html">About Me Page</a>`
 + This is a relative link.
 +	Put links in an unordered list using `ul` and `li` tags
+
+<a href='https://learn.co/lessons/cssi-1.4-html--personal-webpage-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
