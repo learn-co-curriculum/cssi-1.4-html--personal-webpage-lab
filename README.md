@@ -41,4 +41,4 @@ Add additional pages to your site by creating three separate html files
 + This is a relative link.
 +	Put links in an unordered list using `ul` and `li` tags
 
-<a href='https://learn.co/lessons/cssi-1.4-html--personal-webpage-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-1.4-html--personal-webpage-lab' title='HTML Personal Webpage Lab'>HTML Personal Webpage Lab</a> on Learn.co and start learning to code for free.</p>
